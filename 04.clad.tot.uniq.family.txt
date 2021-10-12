@@ -1,0 +1,78 @@
+node	node.num	leaf.num	label.name
+1		5460	Syncephalastraceae (3)
+2		8611	Lichtheimiaceae (3)
+3		10672	Rhizopodaceae (3)
+4		9167	Mucoraceae (12)
+5		5648	Ustilaginaceae
+6		6397	Cystobasidiaceae (4)
+7		9883	Sporidiobolaceae (11)
+8		7078	Filobasidiaceae (5)
+9		4207	Cryptococcaceae (2)
+10		4314	unknown_1 (5)
+11		29019	Trichosporonaceae (30)
+12		14813	Trichomonascaceae (7)
+13		12561	Dipodascaceae (11)
+14		38223	Pichiaceae (37)
+15		17669	Phaffomycetaceae (5)
+16		21292	Saccharomycetaceae (12)
+17		4353	Metschnikowiaceae (4)
+18		42942	Debaryomycetaceae (50)
+19		4759	Cordycipitaceae
+20		17979	Nectriaceae (3)
+21		4992	Sarocladiaceae
+22		19390	Hypocreaceae (8)
+23		8878	Hypoxylaceae (2)
+24		9507	Sporocadaceae (3)
+25		5579	Coniochaetaceae (2)
+26		19042	Chaetomiaceae (13)
+27		2615	Cladosporiaceae
+28		5156	Sporormiaceae
+29		8531	Periconiaceae
+30		7074	Pleosporaceae (3)
+31		5418	Herpotrichiellaceae (2)
+32		7693	Arthrodermataceae
+33		4392	unknown_2
+34		26895	Trichocomaceae (41)
+35		3294	Thermoascaceae (5)
+36		5606	unknown_3 (3)
+37		29787	Penicillium (108)
+38		2870	Monascus (2)
+39		64001	Aspergillus (181)
+40	500521		
+41	104306		
+42	36706		
+43	13514		
+44	20138		
+45	67204		
+46	20326		
+47	15059		
+48	46279		
+49	38807		
+50	33740		
+51	392819		
+52	149479		
+53	25964		
+54	122334		
+55	83441		
+56	36989		
+57	45824		
+58	241969		
+59	72098		
+60	34387		
+61	15372		
+62	16744		
+63	34298		
+64	13955		
+65	19709		
+66	159759		
+67	24532		
+68	9656		
+69	14507		
+70	133619		
+71	128035		
+72	9220		
+73	117103		
+74	87090		
+75	83507		
+76	28077		
+77	51484		

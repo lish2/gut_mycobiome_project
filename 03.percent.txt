@@ -1,0 +1,78 @@
+node	node.num	leaf.num	label.name
+1		58.15 	Syncephalastraceae (3)
+2		68.67 	Lichtheimiaceae (3)
+3		68.06 	Rhizopodaceae (3)
+4		64.67 	Mucoraceae (12)
+5		88.40 	Ustilaginaceae
+6		89.16 	Cystobasidiaceae (4)
+7		92.70 	Sporidiobolaceae (11)
+8		81.36 	Filobasidiaceae (5)
+9		62.99 	Cryptococcaceae (2)
+10		49.22 	unknown_1 (5)
+11		86.70 	Trichosporonaceae (30)
+12		88.80 	Trichomonascaceae (7)
+13		87.05 	Dipodascaceae (11)
+14		93.88 	Pichiaceae (37)
+15		91.59 	Phaffomycetaceae (5)
+16		92.92 	Saccharomycetaceae (12)
+17		67.02 	Metschnikowiaceae (4)
+18		95.25 	Debaryomycetaceae (50)
+19		50.67 	Cordycipitaceae
+20		79.51 	Nectriaceae (3)
+21		52.56 	Sarocladiaceae
+22		81.15 	Hypocreaceae (8)
+23		65.67 	Hypoxylaceae (2)
+24		67.19 	Sporocadaceae (3)
+25		58.54 	Coniochaetaceae (2)
+26		82.82 	Chaetomiaceae (13)
+27		28.26 	Cladosporiaceae
+28		43.72 	Sporormiaceae
+29		62.73 	Periconiaceae
+30		58.26 	Pleosporaceae (3)
+31		63.20 	Herpotrichiellaceae (2)
+32		72.17 	Arthrodermataceae
+33		59.68 	unknown_2
+34		68.30 	Trichocomaceae (41)
+35		35.12 	Thermoascaceae (5)
+36		37.48 	unknown_3 (3)
+37		76.10 	Penicillium (108)
+38		37.06 	Monascus (2)
+39		92.92 	Aspergillus (181)
+40	100 		
+41	96.85 		
+42	94.81 		
+43	75.08 		
+44	81.04 		
+45	95.72 		
+46	89.52 		
+47	88.28 		
+48	94.31 		
+49	92.42 		
+50	89.30 		
+51	99.14 		
+52	97.92 		
+53	88.79 		
+54	97.18 		
+55	95.19 		
+56	91.14 		
+57	92.69 		
+58	98.32 		
+59	84.87 		
+60	72.15 		
+61	56.16 		
+62	57.96 		
+63	74.09 		
+64	60.60 		
+65	68.98 		
+66	92.07 		
+67	76.16 		
+68	67.01 		
+69	70.17 		
+70	90.59 		
+71	90.11 		
+72	61.25 		
+73	88.42 		
+74	82.52 		
+75	81.67 		
+76	62.75 		
+77	71.76 		
