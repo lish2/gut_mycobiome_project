@@ -1,8 +1,7 @@
 
-
 **For data availability of 588 fungal genomes:**
 
-NCBI project homepage: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA833221 (processed: 421 genomes until June 27th, 2022; processing: 167 genomes)
+NCBI project homepage: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA833221 (421 processed until June 27th, 2022; 167 processing)
 
 Download pages for 421 processed genomes: https://www.ncbi.nlm.nih.gov/assembly?LinkName=bioproject_assembly_all&from_uid=833221
 Download sites for 167 processing genomes:
@@ -92,7 +91,6 @@ PH3406|SAMN27963553|[PH3406.fasta.gz](https://raw.githubusercontent.com/qqzy2/gu
 PH4008|SAMN27964159|[PH4008.fasta.gz](https://raw.githubusercontent.com/qqzy2/gut_mycobiome_genomes/main/Genomes/PH4008.fasta.gz)|Y5A|SAMN27964057|[Y5A.fasta.gz](https://raw.githubusercontent.com/qqzy2/gut_mycobiome_genomes/main/Genomes/Y5A.fasta.gz)
 PH4015B|SAMN27964176|[PH4015B.fasta.gz](https://raw.githubusercontent.com/qqzy2/gut_mycobiome_genomes/main/Genomes/PH4015B.fasta.gz)|Y9002B|SAMN27964183|[Y9002B.fasta.gz](https://raw.githubusercontent.com/qqzy2/gut_mycobiome_genomes/main/Genomes/Y9002B.fasta.gz)
 PH4019|SAMN27964145|[PH4019.fasta.gz](https://raw.githubusercontent.com/qqzy2/gut_mycobiome_genomes/main/Genomes/PH4019.fasta.gz)
-
 
 
 **For data availability of fecal metagenomes of 50 healthy individuals:**
