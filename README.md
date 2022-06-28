@@ -5,7 +5,7 @@ NCBI project homepage: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA833221 (proc
 
 Download pages for 421 processed genomes: https://www.ncbi.nlm.nih.gov/assembly?LinkName=bioproject_assembly_all&from_uid=833221
 
-Download sites for 167 processing genomes:
+Download files for 167 processing genomes:
 Strain ID|NCBI BioSample ID|Download file|Strain ID|NCBI BioSample ID|Download file
 |:-|:-|:-|:-|:-|:-|
 2NF929A|SAMN27964148|[2NF929A.fasta.gz](https://raw.githubusercontent.com/qqzy2/gut_mycobiome_genomes/main/Genomes/2NF929A.fasta.gz)|PH4021C|SAMN27964160|[PH4021C.fasta.gz](https://raw.githubusercontent.com/qqzy2/gut_mycobiome_genomes/main/Genomes/PH4021C.fasta.gz)
