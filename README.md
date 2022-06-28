@@ -4,6 +4,7 @@
 NCBI project homepage: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA833221 (421 processed until June 27th, 2022; 167 processing)
 
 Download pages for 421 processed genomes: https://www.ncbi.nlm.nih.gov/assembly?LinkName=bioproject_assembly_all&from_uid=833221
+
 Download sites for 167 processing genomes:
 Strain ID|NCBI BioSample ID|Download file|Strain ID|NCBI BioSample ID|Download file
 |:-|:-|:-|:-|:-|:-|
