@@ -1,7 +1,7 @@
 
 **For data availability of 588 fungal genomes:**
 
-NCBI project homepage: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA833221 (421 processed until June 27th, 2022; 167 processing)
+NCBI project homepage: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA833221 (processed: 421 genomes until June 27th, 2022; processing: 167 genomes)
 
 Download pages for 421 processed genomes: https://www.ncbi.nlm.nih.gov/assembly?LinkName=bioproject_assembly_all&from_uid=833221
 
