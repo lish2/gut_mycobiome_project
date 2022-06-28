@@ -1,3 +1,10 @@
+
+*For data availability*
+
+NCBI project homepage: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA833221 (processed: 421 genomes until June 27th, 2022; processing: 167 genomes)
+
+Download page for 421 processed genomes: https://www.ncbi.nlm.nih.gov/assembly?LinkName=bioproject_assembly_all&from_uid=833221
+
 Strain ID|BioProject ID|BioSample ID|WGS ID|Assembly ID|URL
 |:-|:-|:-|:-|:-|:-|
 P1402|PRJNA833221|SAMN27963306|JALZZZ000000000|GCA_023618355.1|[View](https://www.ncbi.nlm.nih.gov/assembly/GCA_023618355.1#/def)
